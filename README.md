@@ -8,7 +8,7 @@ This repository instead does some rudimentary parsing to be able to query their 
 
 ## Tooling
 
-The unix stack: bash, sed, grep, make, gnu parallel
+The unix stack: bash, sed, grep, make, gnu parallel, gnuplot
 
 ## Usage
 
@@ -74,7 +74,7 @@ $ cat dst.txt | gnuplot -p -e "plot '<cat'"
 
 ## Contribution policy
 
-Contributions are welcome. Maybe an easy next step would be to produce a csv with the day an hour, rather than just 
+Contributions are welcome. Maybe an easy next step would be to produce a csv with the day an hour, rather than just a file with datapoints
 
 ## License
 
